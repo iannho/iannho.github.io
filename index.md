@@ -25,10 +25,12 @@ Possess a Master's Degree in Electrical and Electronic Engineering from the Univ
 
 ### Published Work
 
+<div align="justify">
 [Inducing a Malay Lexicon from an Unlabelled Dataset Using Word Embeddings](https://link.springer.com/chapter/10.1007/978-3-031-08530-7_32)
 <br>
 International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (2022)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+</div>
 
 ---
 

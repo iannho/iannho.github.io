@@ -1,4 +1,8 @@
 ## Portfolio
+<br>
+3+ years of experience in Data Analysis and Data Science. Extensive work on customer profiling, segmentation, content consumption and purchasing behaviour. Additionally, involved in the development, maintenance, and operation of forecast models related to customer churn and viewership behaviour.
+<br>
+Possess a Master's Degree in Electrical and Electronic Engineering from the University of Bath, UK (2019) and a Research Master's Degree in Engineering Science from Multimedia University, Malaysia (2023) in the field of Natural Language Processing.
 
 ---
 

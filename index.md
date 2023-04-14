@@ -1,34 +1,33 @@
 ## Portfolio
 <div align="justify">
-3+ years of experience in Data Analysis and Data Science. Extensive work on customer profiling, segmentation, content consumption and purchasing behaviour. Additionally, involved in the development, maintenance, and operation of forecast models related to customer churn and viewership behaviour.
+3+ years of experience in Data Analysis and Data Science. Extensive work on customer profiling, segmentation, content consumption and purchasing behaviour. Additionally, involved in the development, maintenance, and operation of forecast models related to customer churn and viewership behaviour hosted on AWS.
 <br><br>
 Possess a Master's Degree in Electrical and Electronic Engineering from the University of Bath, UK (2019) and a Research Master's Degree in Engineering Science from Multimedia University, Malaysia (2023) in the field of Natural Language Processing.
 </div>
 
 ---
 
-### Category Name 1 
+### Exploratory Data Analysis 
 
-[Project 1 Title](/sample_page)
+[Customer Viewing Behaviour](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Machine Learning
+---
+[Customer Profile Clustering](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Churn Forecasting](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Published Work
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Inducing a Malay Lexicon from an Unlabelled Dataset Using Word Embeddings](https://link.springer.com/chapter/10.1007/978-3-031-08530-7_32)
+International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (2022)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
